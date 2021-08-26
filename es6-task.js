@@ -148,6 +148,14 @@ const [three] = [products[1]];
 console.log(three); 
 */
 
+/* 
+const number = [1, 2, 4, 5]
+
+const [number1, number2, number3] = number; 
+console.log(number3);
+ */
+
+
 // Task (10)
 
 /* 
@@ -193,3 +201,4 @@ const company =
 console.log(company?.product?.other?.watch);
 
 console.log(company.topSellYears);
+
